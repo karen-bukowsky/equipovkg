@@ -12,7 +12,8 @@ Algoritmo sin_titulo
 		opcion_1:
 		
 			
-		opcion_2:
+		opcion_2:hola soy hol a
+
 			
 		opcion_3:
 			Escribir  "elige la operacion que deseas hacer ";
